@@ -13,4 +13,4 @@ Cada tema impartido se documentara en una carpeta con el nombre del tema, ejempl
 
  Dicha carpeta tendra los ejercicios realizados en clase, videos para estudiar usados, libros usados, un porcentaje que reflejara que tan util es aprender sobre el tema y el nivel de complejidad en escala del 1 al 10. Los ultimos los se basaran en mi criterio personal
 
-###                     ¡"RECUERDA QUE SI PUEDES IMAGINARLO PUEDES PROGRAMARLO"! 💻🦾​🔥
+###                     ¡"RECUERDA QUE SI PUEDES IMAGINARLO PUEDES PROGRAMARLO"(Progrmacion Ats)! 💻🦾​🔥
